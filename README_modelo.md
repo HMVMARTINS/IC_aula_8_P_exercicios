@@ -1,14 +1,16 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome:** Hugo Martins  
+- **Número:** 22301211 
+- **Turma:** 1 
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+- Instalação Git LFS.
+- Limitação de migração de ficheiros png.
+- Envio de repositório para remoto pessoal.
 
 ---
 
