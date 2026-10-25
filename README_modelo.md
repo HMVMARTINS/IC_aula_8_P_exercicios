@@ -18,4 +18,4 @@
 
 ## Observações (opcional)
 
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
+Adicionado imagem png à pasta assets.
