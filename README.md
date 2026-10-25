@@ -123,7 +123,7 @@ Pratica a sincronização entre o repositório local e o remoto pessoal configur
 - Atualiza a branch *main* local a partir da *main* do remoto pessoal e confirma que a alteração ficou integrada.
 
 > **Comandos úteis:** `git remote`, `git push`, `git pull`.
-
+Alteração para fins do exercício 6.
 ---
 
 ## Exercício 7 - Revisão Geral
