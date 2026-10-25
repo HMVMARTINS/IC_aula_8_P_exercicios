@@ -1,7 +1,7 @@
 # Dados do Aluno
 
-- **Nome:** Hugo Martins
-- **Número:** 22301211 
+- **Nome:**  Hugo Martins
+- **Número:**  22301211
 - **Turma:**  1
 
 ---
