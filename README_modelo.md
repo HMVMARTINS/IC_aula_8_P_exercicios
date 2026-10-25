@@ -10,6 +10,8 @@
 
 - Instalação e configuração de Git LFS
 - Criação de branch feat_
+- Instalação e configuração de Git LFS 
+- Criação de branch feat_ 
 - Alteração ao ficheiro e commit
 
 ---
